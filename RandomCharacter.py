@@ -2,7 +2,7 @@ import requests
 import random
 
 
-ID = random.randint(0, 826)
+ID = random.randint(0, 826) #826 characters in the show
 
 
 
